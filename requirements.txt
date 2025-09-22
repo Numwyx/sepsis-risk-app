@@ -1,0 +1,10 @@
+# 基础
+numpy>=1.23.0
+pandas>=1.5.0
+scikit-learn==1.3.0
+matplotlib>=3.6.0
+joblib>=1.2.0
+
+# 可视化与交互
+streamlit>=1.25.0
+shap==0.41.0
