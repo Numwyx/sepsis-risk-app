@@ -1,0 +1,34 @@
+{
+  "fold_best_params": [
+    {
+      "clf__n_neighbors": 21,
+      "clf__p": 1,
+      "clf__weights": "distance"
+    },
+    {
+      "clf__n_neighbors": 21,
+      "clf__p": 1,
+      "clf__weights": "uniform"
+    },
+    {
+      "clf__n_neighbors": 21,
+      "clf__p": 1,
+      "clf__weights": "uniform"
+    },
+    {
+      "clf__n_neighbors": 21,
+      "clf__p": 1,
+      "clf__weights": "distance"
+    },
+    {
+      "clf__n_neighbors": 21,
+      "clf__p": 1,
+      "clf__weights": "uniform"
+    }
+  ],
+  "final_best_params": {
+    "clf__n_neighbors": 21,
+    "clf__p": 1,
+    "clf__weights": "uniform"
+  }
+}

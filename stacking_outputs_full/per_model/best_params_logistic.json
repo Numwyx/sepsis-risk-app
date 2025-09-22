@@ -1,0 +1,34 @@
+{
+  "fold_best_params": [
+    {
+      "clf__C": 0.1,
+      "clf__class_weight": "balanced",
+      "clf__penalty": "l2"
+    },
+    {
+      "clf__C": 10.0,
+      "clf__class_weight": null,
+      "clf__penalty": "l2"
+    },
+    {
+      "clf__C": 1.0,
+      "clf__class_weight": null,
+      "clf__penalty": "l1"
+    },
+    {
+      "clf__C": 1.0,
+      "clf__class_weight": null,
+      "clf__penalty": "l1"
+    },
+    {
+      "clf__C": 0.1,
+      "clf__class_weight": "balanced",
+      "clf__penalty": "l2"
+    }
+  ],
+  "final_best_params": {
+    "clf__C": 1.0,
+    "clf__class_weight": "balanced",
+    "clf__penalty": "l1"
+  }
+}

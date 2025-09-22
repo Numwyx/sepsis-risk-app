@@ -1,0 +1,34 @@
+{
+  "fold_best_params": [
+    {
+      "clf__learning_rate": 0.05,
+      "clf__max_depth": 2,
+      "clf__n_estimators": 150
+    },
+    {
+      "clf__learning_rate": 0.05,
+      "clf__max_depth": 3,
+      "clf__n_estimators": 150
+    },
+    {
+      "clf__learning_rate": 0.05,
+      "clf__max_depth": 3,
+      "clf__n_estimators": 150
+    },
+    {
+      "clf__learning_rate": 0.05,
+      "clf__max_depth": 2,
+      "clf__n_estimators": 150
+    },
+    {
+      "clf__learning_rate": 0.05,
+      "clf__max_depth": 2,
+      "clf__n_estimators": 150
+    }
+  ],
+  "final_best_params": {
+    "clf__learning_rate": 0.05,
+    "clf__max_depth": 2,
+    "clf__n_estimators": 150
+  }
+}

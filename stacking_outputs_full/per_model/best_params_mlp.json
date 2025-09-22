@@ -1,0 +1,52 @@
+{
+  "fold_best_params": [
+    {
+      "clf__alpha": 0.0001,
+      "clf__hidden_layer_sizes": [
+        64,
+        32
+      ],
+      "clf__learning_rate_init": 0.001
+    },
+    {
+      "clf__alpha": 0.0001,
+      "clf__hidden_layer_sizes": [
+        64,
+        32
+      ],
+      "clf__learning_rate_init": 0.001
+    },
+    {
+      "clf__alpha": 0.0001,
+      "clf__hidden_layer_sizes": [
+        64,
+        32
+      ],
+      "clf__learning_rate_init": 0.001
+    },
+    {
+      "clf__alpha": 0.001,
+      "clf__hidden_layer_sizes": [
+        64,
+        32
+      ],
+      "clf__learning_rate_init": 0.001
+    },
+    {
+      "clf__alpha": 0.001,
+      "clf__hidden_layer_sizes": [
+        64,
+        32
+      ],
+      "clf__learning_rate_init": 0.001
+    }
+  ],
+  "final_best_params": {
+    "clf__alpha": 0.001,
+    "clf__hidden_layer_sizes": [
+      64,
+      32
+    ],
+    "clf__learning_rate_init": 0.001
+  }
+}

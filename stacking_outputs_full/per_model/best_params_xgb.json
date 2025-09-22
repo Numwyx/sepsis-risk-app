@@ -1,0 +1,46 @@
+{
+  "fold_best_params": [
+    {
+      "clf__colsample_bytree": 1.0,
+      "clf__learning_rate": 0.05,
+      "clf__max_depth": 3,
+      "clf__reg_lambda": 3.0,
+      "clf__subsample": 0.7
+    },
+    {
+      "clf__colsample_bytree": 0.7,
+      "clf__learning_rate": 0.05,
+      "clf__max_depth": 3,
+      "clf__reg_lambda": 3.0,
+      "clf__subsample": 1.0
+    },
+    {
+      "clf__colsample_bytree": 0.7,
+      "clf__learning_rate": 0.05,
+      "clf__max_depth": 3,
+      "clf__reg_lambda": 3.0,
+      "clf__subsample": 0.7
+    },
+    {
+      "clf__colsample_bytree": 0.7,
+      "clf__learning_rate": 0.05,
+      "clf__max_depth": 3,
+      "clf__reg_lambda": 3.0,
+      "clf__subsample": 0.7
+    },
+    {
+      "clf__colsample_bytree": 0.7,
+      "clf__learning_rate": 0.05,
+      "clf__max_depth": 3,
+      "clf__reg_lambda": 3.0,
+      "clf__subsample": 0.7
+    }
+  ],
+  "final_best_params": {
+    "clf__colsample_bytree": 0.7,
+    "clf__learning_rate": 0.05,
+    "clf__max_depth": 3,
+    "clf__reg_lambda": 3.0,
+    "clf__subsample": 1.0
+  }
+}

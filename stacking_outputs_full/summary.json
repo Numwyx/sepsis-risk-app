@@ -1,0 +1,28 @@
+{
+  "random_state": 20250915,
+  "models_run": [
+    "ada",
+    "cat",
+    "dt",
+    "gbm",
+    "knn",
+    "lgb",
+    "logistic",
+    "mlp",
+    "node",
+    "rf",
+    "svm",
+    "tabnet",
+    "xgb"
+  ],
+  "meta_val_auc": 0.7569175428887659,
+  "meta_val_logloss": 0.5847100001306452,
+  "meta_val_brier": 0.2003483902253499,
+  "meta_train_ins_auc": 0.7986989750274774,
+  "meta_train_ins_logloss": 0.5398701672659756,
+  "meta_train_ins_brier": 0.1810381558730025,
+  "meta_train_oof_auc": 0.7820719269994633,
+  "meta_train_oof_logloss": 0.5556279070663174,
+  "meta_train_oof_brier": 0.18745819529199345,
+  "meta_C_used": 0.42813323987193913
+}

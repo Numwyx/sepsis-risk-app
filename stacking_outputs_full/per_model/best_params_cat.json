@@ -1,0 +1,40 @@
+{
+  "fold_best_params": [
+    {
+      "clf__depth": 6,
+      "clf__iterations": 800,
+      "clf__l2_leaf_reg": 3.0,
+      "clf__learning_rate": 0.05
+    },
+    {
+      "clf__depth": 4,
+      "clf__iterations": 800,
+      "clf__l2_leaf_reg": 3.0,
+      "clf__learning_rate": 0.05
+    },
+    {
+      "clf__depth": 6,
+      "clf__iterations": 800,
+      "clf__l2_leaf_reg": 3.0,
+      "clf__learning_rate": 0.05
+    },
+    {
+      "clf__depth": 6,
+      "clf__iterations": 800,
+      "clf__l2_leaf_reg": 6.0,
+      "clf__learning_rate": 0.05
+    },
+    {
+      "clf__depth": 6,
+      "clf__iterations": 800,
+      "clf__l2_leaf_reg": 3.0,
+      "clf__learning_rate": 0.1
+    }
+  ],
+  "final_best_params": {
+    "clf__depth": 4,
+    "clf__iterations": 800,
+    "clf__l2_leaf_reg": 6.0,
+    "clf__learning_rate": 0.05
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "fold_best_params": [
+    {
+      "clf__C": 0.1,
+      "clf__class_weight": null,
+      "clf__gamma": "scale",
+      "clf__kernel": "linear"
+    },
+    {
+      "clf__C": 1,
+      "clf__class_weight": "balanced",
+      "clf__gamma": "scale",
+      "clf__kernel": "rbf"
+    },
+    {
+      "clf__C": 0.1,
+      "clf__class_weight": null,
+      "clf__gamma": "scale",
+      "clf__kernel": "linear"
+    },
+    {
+      "clf__C": 1,
+      "clf__class_weight": null,
+      "clf__gamma": "scale",
+      "clf__kernel": "linear"
+    },
+    {
+      "clf__C": 1,
+      "clf__class_weight": null,
+      "clf__gamma": "scale",
+      "clf__kernel": "rbf"
+    }
+  ],
+  "final_best_params": {
+    "clf__C": 0.1,
+    "clf__class_weight": null,
+    "clf__gamma": "scale",
+    "clf__kernel": "linear"
+  }
+}

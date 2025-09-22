@@ -1,0 +1,28 @@
+{
+  "fold_best_params": [
+    {
+      "clf__max_depth": 3,
+      "clf__min_samples_leaf": 2
+    },
+    {
+      "clf__max_depth": 3,
+      "clf__min_samples_leaf": 5
+    },
+    {
+      "clf__max_depth": 3,
+      "clf__min_samples_leaf": 5
+    },
+    {
+      "clf__max_depth": 3,
+      "clf__min_samples_leaf": 2
+    },
+    {
+      "clf__max_depth": 3,
+      "clf__min_samples_leaf": 2
+    }
+  ],
+  "final_best_params": {
+    "clf__max_depth": 3,
+    "clf__min_samples_leaf": 5
+  }
+}

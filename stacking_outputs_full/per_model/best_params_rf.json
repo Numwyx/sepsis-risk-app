@@ -1,0 +1,34 @@
+{
+  "fold_best_params": [
+    {
+      "clf__max_depth": 6,
+      "clf__min_samples_leaf": 1,
+      "clf__n_estimators": 300
+    },
+    {
+      "clf__max_depth": 6,
+      "clf__min_samples_leaf": 1,
+      "clf__n_estimators": 300
+    },
+    {
+      "clf__max_depth": 6,
+      "clf__min_samples_leaf": 1,
+      "clf__n_estimators": 600
+    },
+    {
+      "clf__max_depth": 6,
+      "clf__min_samples_leaf": 1,
+      "clf__n_estimators": 300
+    },
+    {
+      "clf__max_depth": 6,
+      "clf__min_samples_leaf": 4,
+      "clf__n_estimators": 600
+    }
+  ],
+  "final_best_params": {
+    "clf__max_depth": 6,
+    "clf__min_samples_leaf": 1,
+    "clf__n_estimators": 600
+  }
+}

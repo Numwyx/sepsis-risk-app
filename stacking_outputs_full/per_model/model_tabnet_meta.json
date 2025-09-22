@@ -1,0 +1,24 @@
+{
+  "numeric_cols": [
+    "Apacheii",
+    "CCI",
+    "SOFA",
+    "SBP",
+    "Temp",
+    "BUN",
+    "INR",
+    "Platelets"
+  ],
+  "cat_cols": [
+    "Surgical_Type",
+    "Surgical_Segment",
+    "Surgical_Approach",
+    "VP_Use"
+  ],
+  "cat_cardinalities": [
+    3,
+    4,
+    4,
+    3
+  ]
+}
